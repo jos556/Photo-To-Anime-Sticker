@@ -1,0 +1,13 @@
+src/
+├── assets/
+├── components/
+│   ├── ImageUploader.vue
+│   ├── StickerPreview.vue
+│   └── StyleSelector.vue
+├── stores/
+│   └── stickerStore.js
+├── views/
+│   ├── HomeView.vue
+│   └── GalleryView.vue
+├── App.vue
+└── main.js 
